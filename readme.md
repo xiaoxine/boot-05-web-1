@@ -50,3 +50,12 @@ spring:
 #  mvc:
 #    static-path-pattern: /res/**   这个会导致 Favicon 功能失效
 ```
+### 2.4、thymeleaf使用  
+ 1、引入Starter
+ ```
+         <dependency>
+             <groupId>org.springframework.boot</groupId>
+             <artifactId>spring-boot-starter-thymeleaf</artifactId>
+         </dependency>
+ ```
+         
